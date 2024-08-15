@@ -1,0 +1,8 @@
+export enum ConnectionState {
+	CONNECTING = 'CONNECTING',
+	CONNECTED = 'CONNECTED',
+	DISCONNECTED = 'DISCONNECTED',
+	ERROR = 'ERROR',
+	NONE = 'NONE',
+	IDLE = 'IDLE',
+}
